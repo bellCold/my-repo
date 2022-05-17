@@ -2,9 +2,4 @@
 2
 3
 4
-<<<<<<< HEAD
-master work
-
-=======
-apple work
->>>>>>> apple
+master work,apple worke
